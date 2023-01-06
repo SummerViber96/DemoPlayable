@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-desktop",groupList:["default","enemies","tower"],collisionMatrix:[[false,false],[false,false,true],[false,true,false]],hasResourcesBundle:true,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/scences/GameUI.fire",orientation:"",jsList:[],bundleVers:{internal:"d17e2",resources:"701fd",main:"308e2"}};
